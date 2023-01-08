@@ -8,7 +8,7 @@ body{
 .header{
   display: flex;
   height: 101px;
-  width:1350.2px;
+  width:1416.2px;
   background-color: white;
   justify-content: center;
   align-items: center;
@@ -20,7 +20,7 @@ body{
 }
 .page1{
   height: 752.083px;
-  width: 1350.2px;
+  width: 1424.2px;
   background-image: url(https://www.bentleymotors.com/content/dam/bentley/Master/homepage%20carousel/1920x1080_bentayga_ewb_2.jpg/_jcr_content/renditions/original.image_file.1365.768.file/1920x1080_bentayga_ewb_2.jpg);
   background-size: 1519.2px;
   background-repeat: no-repeat;
