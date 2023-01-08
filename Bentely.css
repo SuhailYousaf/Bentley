@@ -1,0 +1,324 @@
+*{
+  margin: 0;
+}
+body{
+  margin: 0px;
+  padding: 0px; 
+}
+.header{
+  display: flex;
+  height: 101px;
+  width:1528.2px;
+  background-color: white;
+  justify-content: center;
+  align-items: center;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+.page1{
+  height: 752.083px;
+  width: 1519.2px;
+  background-image: url(https://www.bentleymotors.com/content/dam/bentley/Master/homepage%20carousel/1920x1080_bentayga_ewb_2.jpg/_jcr_content/renditions/original.image_file.1365.768.file/1920x1080_bentayga_ewb_2.jpg);
+  background-size: 1519.2px;
+  background-repeat: no-repeat;
+  background-blend-mode: screen;
+}
+
+.headercontent{
+  display: flex;
+  width: 1509px;
+  height: 101px;
+  align-content: space-between;
+  justify-content: space-around;
+
+  background-color: white;
+
+}
+#logo{
+  padding-top: 21px;
+  height: 58px;
+  width: 116px;
+  
+
+}
+.modelWorld{
+  display: flex;
+  height: 20px;
+  width: 228px;
+  padding-top: 41px;
+  padding-left: 35px;
+
+}
+#models{
+  border: transparent;
+  background-color: white;
+  font-size: 16px;
+  color: #6e6e6e; 
+}
+#world{
+  border: transparent;
+  background-color: white;
+  font-size: 16px;
+  color: #6e6e6e;
+  padding-left: 23px; 
+}
+.configLocate{
+  padding-top: 41px;
+  padding-left: 66px;
+}
+#config{
+  border: transparent;
+  background-color: white;
+  font-size: 14px;
+  color: #6e6e6e;
+  
+}
+#locate{
+  border: transparent;
+  background-color: white;
+  font-size: 14px;
+  color: #6e6e6e;
+  
+}
+.request{
+  padding-top: 30px;
+  margin-right: -49px;
+}
+#reqid{
+  height: 39px;
+  width: 236px;
+  border-radius: 0px;
+  border: none;
+  background: #335b4c;
+  color: white;
+  font-size: 14px
+}
+#content-tag{
+  font-size: 24px;
+  color:white ;
+  font-weight: 700;
+  position: relative;
+  top: 210px;
+  left: 50px;
+  line-height: 20px;
+
+}
+#content-tag-sub{
+  font-size: 16px;
+  color: white;
+  line-height: 24px;
+  position: relative;
+  top: 230px;
+  left: 50px;
+}
+#discover-tag{
+  height: 52px;
+  width: 415px;
+  border: none;
+  border-radius: 0px;
+  color: white;
+  background: #335b4c;
+  font-size: 16px;
+  position: relative;
+  top: 260px;
+  left: 50px;
+}
+#build-tag{
+  height: 52px;
+  width: 415px;
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 0px;
+  color: white;
+  background: transparent;
+  font-size: 16px;
+  position: relative;
+  top: 270px;
+  left: 50px;
+}
+#discover-tag:hover{
+  background-color:  #113a2c;
+}
+#build-tag:hover{
+  background-color: rgba(224, 224, 224, 0.223);
+}
+#reqid:hover{
+  background-color: #113a2c ;
+}
+#select-tag{
+  position: relative;
+  top: 350px;
+  left: 45px;
+  color: white;
+  
+}
+.next{
+  display: flex;
+  height: 380px;
+  width: 1519.2px;
+}
+
+#leftside{
+  height: 380px;
+  width: 759.6px;
+  background-image: url(https://www.bentleymotors.com/content/dam/bentley/Master/Homestage%20Tiles/Bentley-man-and-woman-by-Continental-GT-Convertible-1024x512.jpg/_jcr_content/renditions/original.image_file.960.480.file/Bentley-man-and-woman-by-Continental-GT-Convertible-1024x512.jpg);
+  background-size:759.6px;
+
+}
+#rightside{
+  height: 380px;
+  width: 759.6px;
+  background-image: url(https://www.bentleymotors.com/content/dam/bentley/Master/Homestage%20Tiles/Certified-by-Bentley-pre-owned-2020-1024x512.jpg/_jcr_content/renditions/original.image_file.960.480.file/Certified-by-Bentley-pre-owned-2020-1024x512.jpg);
+  background-size:759.6px;
+
+
+}
+.rightpic{
+  display: flex;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  background-color: white;
+  opacity: 1;
+  justify-content: center;
+  align-items: center;
+}
+#pre{
+  height: 52px;
+  width: 162px;
+ 
+}
+#own{
+  height: 52px;
+  width: 138px;
+
+}
+.page-2{
+  display: flex;
+  background-color: #e6eae9;
+  height: 141px;
+  width: 1519.2px;
+  background-size: 1519.2px;
+  background-repeat:no-repeat;
+  background-blend-mode: screen;
+}
+.header-tag{
+  display: flex;
+  height: 141px;
+  width: 1519.2px;
+  align-items: center;
+
+}
+.image-sub-tag{
+  display: flex;
+  text-decoration: none;
+  flex-direction: column;
+  color: #335b4c;
+  justify-content: center;
+  align-items:center;
+  width:209px;
+  height: 141px;
+  font-size: 16px;
+  line-height: 50px;
+  border-width: 100px;
+ 
+}
+.header-tag :hover{
+  background-color:  #bccac4;
+}
+.container{
+  max-width: 1519px;
+  margin: auto;
+}
+.row{
+  display: flex;
+  flex-wrap: wrap ;
+}
+ul{
+  list-style: none;
+}
+.footer-tag{
+  background-color: white;
+  padding: 70x;
+  justify-content: center;
+  align-items: center;
+}
+.footer-col{
+  position: relative;
+  left: -58px;
+  top: 15px;
+  padding-left: 161px;
+}
+.footer-col h4{
+  font-size: 16px;
+  color: #727376;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+  font-weight: 500;
+  position: relative;
+} 
+.footer-col ul li:not(:last-child){
+  margin-bottom: 10px; 
+}
+.footer-col ul li a{
+  font-size: 14px;
+  text-transform: capitalize;
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: 300;
+  color: #335b4c;
+  display: block;
+}
+.footer-col ul li a:hover{
+  color: #003220;
+}
+.social-tag{
+  display: flex;
+} 
+ul{
+  list-style: none;
+}
+.social-tag-sub{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding-left:14px;
+}
+.social img{
+  width: 32px;
+  height: 32px;
+  
+}
+.social-tag-sub2{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding-left: 20px;
+}.social-tag-sub3{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding-left: 30px;
+}
+.social-tag-sub4{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding-left: 40px;
+}
+.social-tag-sub5{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding-left: 40px;
+}
+.social-tag-sub6{
+  position: relative;
+  left: 50px;
+  top: 50px;
+  padding-left: 40px;
+}
